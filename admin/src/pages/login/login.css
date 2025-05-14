@@ -1,0 +1,23 @@
+/* Error messages */
+.error {
+  color: red;
+  font-size: 14px;
+}
+
+/* Buttons */
+/* button {
+  width: 100%;
+  padding: 15px;
+  background: #067c81;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 10px;
+} */
+
+/* button:hover {
+  background: #0b4c4e;
+} */
